@@ -1,4 +1,4 @@
-package com.neet.blockbunny.handlers;
+package com.platformer.sample.handlers;
 
 public class B2DVars {
 	

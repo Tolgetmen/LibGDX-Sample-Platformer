@@ -1,10 +1,10 @@
-package com.neet.blockbunny.handlers;
+package com.platformer.sample.handlers;
 
 import java.util.Stack;
 
-import com.neet.blockbunny.main.Game;
-import com.neet.blockbunny.states.GameState;
-import com.neet.blockbunny.states.Play;
+import com.platformer.sample.main.Game;
+import com.platformer.sample.states.GameState;
+import com.platformer.sample.states.Play;
 
 public class GameStateManager {
 	

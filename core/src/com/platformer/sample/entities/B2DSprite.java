@@ -1,11 +1,11 @@
-package com.neet.blockbunny.entities;
+package com.platformer.sample.entities;
 
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.physics.box2d.Body;
-import com.neet.blockbunny.handlers.Animation;
-import com.neet.blockbunny.handlers.B2DVars;
+import com.platformer.sample.handlers.Animation;
+import com.platformer.sample.handlers.B2DVars;
 
 public class B2DSprite {
 

@@ -1,4 +1,4 @@
-package com.neet.blockbunny.handlers;
+package com.platformer.sample.handlers;
 
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 

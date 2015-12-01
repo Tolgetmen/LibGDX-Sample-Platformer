@@ -1,9 +1,9 @@
-package com.neet.blockbunny.states;
+package com.platformer.sample.states;
 
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-import com.neet.blockbunny.handlers.GameStateManager;
-import com.neet.blockbunny.main.Game;
+import com.platformer.sample.handlers.GameStateManager;
+import com.platformer.sample.main.Game;
 
 public abstract class GameState {
 	

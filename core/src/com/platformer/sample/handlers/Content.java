@@ -1,8 +1,7 @@
-package com.neet.blockbunny.handlers;
+package com.platformer.sample.handlers;
 
 import java.util.HashMap;
 
-import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;
 
 public class Content {

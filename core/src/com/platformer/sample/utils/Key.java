@@ -1,4 +1,4 @@
-package com.neet.blockbunny.utils;
+package com.platformer.sample.utils;
 
 /**
  * Created by tomer on 12/1/15.

@@ -1,6 +1,6 @@
-package com.neet.blockbunny.states;
+package com.platformer.sample.states;
 
-import static com.neet.blockbunny.handlers.B2DVars.PPM;
+import static com.platformer.sample.handlers.B2DVars.PPM;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
@@ -19,13 +19,13 @@ import com.badlogic.gdx.physics.box2d.ChainShape;
 import com.badlogic.gdx.physics.box2d.FixtureDef;
 import com.badlogic.gdx.physics.box2d.PolygonShape;
 import com.badlogic.gdx.physics.box2d.World;
-import com.neet.blockbunny.entities.Player;
-import com.neet.blockbunny.handlers.B2DVars;
-import com.neet.blockbunny.handlers.GameStateManager;
-import com.neet.blockbunny.handlers.contactListener;
-import com.neet.blockbunny.main.Game;
-import com.neet.blockbunny.utils.Key;
-import com.neet.blockbunny.utils.Res;
+import com.platformer.sample.entities.Player;
+import com.platformer.sample.handlers.B2DVars;
+import com.platformer.sample.handlers.GameStateManager;
+import com.platformer.sample.handlers.contactListener;
+import com.platformer.sample.main.Game;
+import com.platformer.sample.utils.Key;
+import com.platformer.sample.utils.Res;
 
 import javax.microedition.khronos.opengles.GL10;
 

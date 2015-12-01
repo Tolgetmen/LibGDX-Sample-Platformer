@@ -1,13 +1,13 @@
-package com.neet.blockbunny.main;
+package com.platformer.sample.main;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-import com.neet.blockbunny.handlers.Content;
-import com.neet.blockbunny.handlers.GameStateManager;
-import com.neet.blockbunny.handlers.MyInput;
-import com.neet.blockbunny.handlers.InputProcessor;
+import com.platformer.sample.handlers.Content;
+import com.platformer.sample.handlers.GameStateManager;
+import com.platformer.sample.handlers.MyInput;
+import com.platformer.sample.handlers.InputProcessor;
 
 public class Game implements ApplicationListener {
 	

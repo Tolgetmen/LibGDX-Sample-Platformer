@@ -1,6 +1,6 @@
-package com.neet.blockbunny.handlers;
+package com.platformer.sample.handlers;
 
-import com.neet.blockbunny.utils.Key;
+import com.platformer.sample.utils.Key;
 
 import java.util.ArrayList;
 

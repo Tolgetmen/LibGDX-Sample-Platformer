@@ -1,9 +1,8 @@
-package com.neet.blockbunny.handlers;
+package com.platformer.sample.handlers;
 
 import com.badlogic.gdx.InputAdapter;
-import com.badlogic.gdx.Input.Keys;
-import com.neet.blockbunny.utils.Key;
-import com.neet.blockbunny.utils.Res;
+import com.platformer.sample.utils.Key;
+import com.platformer.sample.utils.Res;
 
 public class InputProcessor extends InputAdapter {
 

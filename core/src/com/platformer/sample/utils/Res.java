@@ -1,4 +1,4 @@
-package com.neet.blockbunny.utils;
+package com.platformer.sample.utils;
 
 import com.badlogic.gdx.Input;
 
