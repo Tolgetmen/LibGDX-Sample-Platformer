@@ -24,8 +24,6 @@ android/libs/armeabi-v7a/
 android/libs/x86/
 android/gen/
 .idea/
-*.iws
-*.iml
 out/
 com_crashlytics_export_strings.xml
 
@@ -39,7 +37,6 @@ tmp/
 *.bak
 *.swp
 *~.nib
-local.properties
 .settings/
 .loadpath
 .externalToolBuilders/
@@ -58,7 +55,6 @@ nb-configuration.xml
 
 .gradle
 gradle-app.setting
-build/
 
 ## OS Specific
 .DS_Store
